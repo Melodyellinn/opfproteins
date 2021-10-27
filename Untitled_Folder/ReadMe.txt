@@ -1,0 +1,3 @@
+L'appli fonctionne en local en lançant le chemin dans le prompt Anaconda.
+Malheureusement, je n'ai pas pu réussir à le faire fonctionner
+avec Hedoku...
